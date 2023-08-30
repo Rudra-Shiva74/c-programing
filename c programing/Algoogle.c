@@ -3,7 +3,7 @@
 int main()
 {
     int num, num2;
-    printf("Enter How many number you want : ");
+    printf("enter How many number you want : ");
     scanf("%d", &num);
     int Array[num];
     for (int i = 0; i < num; i++)
